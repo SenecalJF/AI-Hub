@@ -17,6 +17,7 @@ import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import { mainListItems } from '../components/ListItems';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
+import ModelCard from '../components/ModelCard';
 
 function Copyright(props: any) {
   return (
@@ -162,7 +163,7 @@ export default function Home() {
           <Toolbar />
           <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
             <Grid container spacing={3}>
-              <p>Hello</p>
+              <ModelCard />
             </Grid>
             <Copyright sx={{ pt: 4 }} />
           </Container>
