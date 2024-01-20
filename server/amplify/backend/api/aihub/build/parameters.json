@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "aihub",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-aihub-dev-145745-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/4267dea81d9b39e6bb8ac2fc5c9e0994663e451c"
+}

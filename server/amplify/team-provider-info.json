@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aihub-dev-145745-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975049989121:role/amplify-aihub-dev-145745-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975049989121:role/amplify-aihub-dev-145745-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aihub-dev-145745-deployment",
+      "UnauthRoleName": "amplify-aihub-dev-145745-unauthRole",
+      "StackName": "amplify-aihub-dev-145745",
+      "StackId": "arn:aws:cloudformation:us-east-1:975049989121:stack/amplify-aihub-dev-145745/2d486810-b7ce-11ee-8d0d-12d2d2a31ce9",
+      "AmplifyAppId": "d2jfmo50th2k8d"
+    },
+    "categories": {
+      "api": {
+        "aihub": {}
+      }
+    }
+  }
+}
